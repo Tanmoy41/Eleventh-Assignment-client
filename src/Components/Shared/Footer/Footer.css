@@ -1,0 +1,9 @@
+.footer-container {
+  height: 250px;
+  background-color: paleturquoise;
+}
+
+.site-list a {
+  text-decoration: none;
+  color: black;
+}

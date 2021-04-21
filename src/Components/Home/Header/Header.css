@@ -1,0 +1,8 @@
+.header-container {
+    height: 790px;
+    background-image: url("../../Images/headerBg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
